@@ -4,8 +4,7 @@ def add(x,y);
 
 
 def subtract (x,y);
-"""Subtract Function"""
-return x-y
+"""Subtract Function"""pass
 
 
 def multiply (x,y);
